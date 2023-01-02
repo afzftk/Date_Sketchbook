@@ -1,6 +1,7 @@
 asgiref==3.6.0
 certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_477u68wvzm/croot/certifi_1671487773341/work/certifi
 Django==3.2.16
+psycopg2-binary==2.9.5
 pytz==2022.7
 sqlparse==0.4.3
 typing_extensions==4.4.0
